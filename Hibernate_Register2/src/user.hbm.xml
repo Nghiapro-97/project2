@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+        
+<hibernate-mapping>
+	<class name="com.javatpoint.mypack.User" table="account">
+		<id name="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="username"></property>
+		<property name="password"></property>
+		<property name="email"></property>
+	</class>
+</hibernate-mapping>

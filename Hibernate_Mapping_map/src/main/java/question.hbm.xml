@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-mapping>  
+  
+	<class name="com.javame.Question" table="question">  
+		<id name="id">  
+			<generator class="native"></generator>  
+		</id>  
+		<property name="name"></property>  
+		<property name="username"></property>  
+		  
+		<map name="answers" table="answers" cascade="all">  
+			<key column="qid"></key>
+			<map-key column="answer" type="java.lang.String"/>
+			<element column="username" type="java.lang.String"></element> 
+		</map>  
+	</class>  
+  
+</hibernate-mapping>   

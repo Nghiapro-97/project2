@@ -1,0 +1,15 @@
+[DEBUG] 2020-07-22 17:24:33.397 [main] StoreData - this is debug: parameter/exception object
+[INFO ] 2020-07-22 17:24:33.400 [main] StoreData - this is info: parameter/exception object
+[WARN ] 2020-07-22 17:24:33.400 [main] StoreData - this is warn: parameter/exception object
+[ERROR] 2020-07-22 17:24:33.401 [main] StoreData - this is error: parameter/exception object
+[FATAL] 2020-07-22 17:24:33.401 [main] StoreData - this is fatal: parameter/exception object
+[DEBUG] 2020-07-22 18:55:11.215 [main] StoreData - this is debug: parameter/exception object
+[INFO ] 2020-07-22 18:55:11.218 [main] StoreData - this is info: parameter/exception object
+[WARN ] 2020-07-22 18:55:11.218 [main] StoreData - this is warn: parameter/exception object
+[ERROR] 2020-07-22 18:55:11.221 [main] StoreData - this is error: parameter/exception object
+[FATAL] 2020-07-22 18:55:11.221 [main] StoreData - this is fatal: parameter/exception object
+[DEBUG] 2020-07-22 22:50:26.331 [main] StoreData - this is debug: parameter/exception object
+[INFO ] 2020-07-22 22:50:26.332 [main] StoreData - this is info: parameter/exception object
+[WARN ] 2020-07-22 22:50:26.334 [main] StoreData - this is warn: parameter/exception object
+[ERROR] 2020-07-22 22:50:26.334 [main] StoreData - this is error: parameter/exception object
+[FATAL] 2020-07-22 22:50:26.334 [main] StoreData - this is fatal: parameter/exception object
